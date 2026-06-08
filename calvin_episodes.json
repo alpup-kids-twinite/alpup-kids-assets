@@ -1,0 +1,86 @@
+[
+  {
+    "episodeNumber": 1,
+    "title": "The Television Job",
+    "src": "https://huggingface.co/datasets/Alpup-kids/alpup-kids-shows/resolve/main/Calvin_and_the_Colonel_-_Television_Job%2C_The_(1961)_(raw_version).webm.480p.vp9.mp4",
+    "duration": 1478,
+    "type": "video/mp4"
+  },
+  {
+    "episodeNumber": 2,
+    "title": "The Polka Dot Bandit",
+    "src": "https://huggingface.co/datasets/Alpup-kids/alpup-kids-shows/resolve/main/Calvin_and_the_Colonel_-_Polka_Dot_Bandit%2C_The_(1961)_(raw_version).webm.480p.vp9.mp4",
+    "duration": 1496,
+    "type": "video/mp4"
+  },
+  {
+    "episodeNumber": 3,
+    "title": "The Thanksgiving Dinner",
+    "src": "https://huggingface.co/datasets/Alpup-kids/alpup-kids-shows/resolve/main/Calvin_and_the_Colonel_-_Thanksgiving_Dinner__1961___raw_black-and-white_4K_version_.webm.1080p.vp9.mp4",
+    "duration": 1442,
+    "type": "video/mp4"
+  },
+  {
+    "episodeNumber": 4,
+    "title": "The Costume Ball",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Calvin_and_the_Colonel_-_Costume_Ball%2C_The_%281961%29_%28raw_black-and-white_4K_version%29.webm",
+    "duration": 1444,
+    "type": "video/webm"
+  },
+  {
+    "episodeNumber": 5,
+    "title": "Sycamore Lodge",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Calvin_and_the_Colonel_-_Sycamore_Lodge_%281961%29_%28raw_black-and-white_4K_version%29.webm",
+    "duration": 1453,
+    "type": "video/webm"
+  },
+  {
+    "episodeNumber": 8,
+    "title": "Wheeling and Dealing",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Calvin_and_the_Colonel_-_Wheeling_and_Dealing_%281962%29_%28raw_version%29.webm",
+    "duration": 1463,
+    "type": "video/webm"
+  },
+  {
+    "episodeNumber": 10,
+    "title": "The Colonel's Old Flame",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Calvin_and_the_Colonel_-_Colonel%27s_Old_Flame%2C_The_%281962%29_%28raw_version%29.webm",
+    "duration": 1494,
+    "type": "video/webm"
+  },
+  {
+    "episodeNumber": 11,
+    "title": "Sister Sue and the Police Captain",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Calvin_and_the_Colonel_-_Sister_Sue and_the_Police_Captain_%281962%29_%28raw_version%29.webm",
+    "duration": 1478,
+    "type": "video/webm"
+  },
+  {
+    "episodeNumber": 15,
+    "title": "Sister Sue's Sweetheart",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/41/Calvin_and_the_Colonel_-_Sister_Sue%27s_Sweetheart_%281962%29_%28raw_black-and-white_4K_version%29.webm",
+    "duration": 1459,
+    "type": "video/webm"
+  },
+  {
+    "episodeNumber": 17,
+    "title": "Calvin's Glamour Girl",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/08/Calvin_and_the_Colonel_-_Calvin%27s_Glamour_Girl_%281962%29_%28raw_version%29.webm",
+    "duration": 1496,
+    "type": "video/webm"
+  },
+  {
+    "episodeNumber": 18,
+    "title": "Colonel Outfoxes Himself",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Calvin_and_the_Colonel_-_Colonel_Outfoxes_Himself_%281962%29_%28raw_version%29.webm",
+    "duration": 1478,
+    "type": "video/webm"
+  },
+  {
+    "episodeNumber": 19,
+    "title": "Nephew Newton's Fortune",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/Calvin_and_the_Colonel_-_Nephew_Newton%27s_Fortune_%281962%29_%28raw_version%29.webm",
+    "duration": 1489,
+    "type": "video/webm"
+  }
+]
